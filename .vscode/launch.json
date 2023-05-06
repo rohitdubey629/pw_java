@@ -1,0 +1,406 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "PrefixSumApproach",
+      "request": "launch",
+      "mainClass": "Java_D_S_A.PrefixSumApproach",
+      "projectName": "java_fcb6337c"
+    },
+    {
+      "type": "java",
+      "name": "CountWay",
+      "request": "launch",
+      "mainClass": "Recursion.CountWay",
+      "projectName": "java_fcb6337c"
+    },
+    {
+      "type": "java",
+      "name": "PowerFind",
+      "request": "launch",
+      "mainClass": "Recursion.PowerFind",
+      "projectName": "java_fcb6337c"
+    },
+    {
+      "type": "java",
+      "name": "FactorialFind",
+      "request": "launch",
+      "mainClass": "Recursion.FactorialFind",
+      "projectName": "java_fcb6337c"
+    },
+    {
+      "type": "java",
+      "name": "RotationMatrix",
+      "request": "launch",
+      "mainClass": "Java_D_S_A.RotationMatrix",
+      "projectName": "java_fcb6337c"
+    },
+    {
+      "type": "java",
+      "name": "SumOfNaturalNumber",
+      "request": "launch",
+      "mainClass": "Java_D_S_A.SumOfNaturalNumber",
+      "projectName": "java_fcb6337c"
+    },
+    {
+      "type": "java",
+      "name": "Duplicate",
+      "request": "launch",
+      "mainClass": "Java_D_S_A.Duplicate",
+      "projectName": "java_fcb6337c"
+    },
+    {
+      "type": "java",
+      "name": "Missing",
+      "request": "launch",
+      "mainClass": "Java_D_S_A.Missing",
+      "projectName": "java_fcb6337c"
+    },
+    {
+      "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "Java_D_S_A.Reverse",
+      "projectName": "java_fcb6337c"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "Java_D_S_A.Palindrome",
+      "projectName": "java_fcb6337c"
+    },
+    {
+      "type": "java",
+      "name": "ArrayList1",
+      "request": "launch",
+      "mainClass": "CollectionFramework.ArrayList1",
+      "projectName": "java_fcb6337c"
+    },
+    {
+      "type": "java",
+      "name": "index",
+      "request": "launch",
+      "mainClass": "notepadapp.index",
+      "projectName": "java_fcb6337c"
+    },
+    {
+      "type": "java",
+      "name": "SynchronizedThread2",
+      "request": "launch",
+      "mainClass": "Multithreading.SynchronizedThread2",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "SynchronizedThread1",
+      "request": "launch",
+      "mainClass": "Multithreading.SynchronizedThread1",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "MultiThreading4",
+      "request": "launch",
+      "mainClass": "Multithreading.MultiThreading4",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "LaunchMulti6",
+      "request": "launch",
+      "mainClass": "LaunchMulti6",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "MultiThreading3",
+      "request": "launch",
+      "mainClass": "Multithreading.MultiThreading3",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "MultiThreading2",
+      "request": "launch",
+      "mainClass": "Multithreading.MultiThreading2",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "MultiThreading1",
+      "request": "launch",
+      "mainClass": "Multithreading.MultiThreading1",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "LaunchMulti3",
+      "request": "launch",
+      "mainClass": "LaunchMulti3",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "LaunchMulti2",
+      "request": "launch",
+      "mainClass": "LaunchMulti2",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "LaunchMulti1",
+      "request": "launch",
+      "mainClass": "LaunchMulti1",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "CustomException",
+      "request": "launch",
+      "mainClass": "Exception.CustomException",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Exception1",
+      "request": "launch",
+      "mainClass": "Exception.Exception1",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "FInterfaceAndLambda",
+      "request": "launch",
+      "mainClass": "Interface.FInterfaceAndLambda",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "AnonymousInnerClass",
+      "request": "launch",
+      "mainClass": "Interface.AnonymousInnerClass",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "InnerClass",
+      "request": "launch",
+      "mainClass": "Interface.InnerClass",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "NormalInterface",
+      "request": "launch",
+      "mainClass": "Interface.NormalInterface",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Interface3",
+      "request": "launch",
+      "mainClass": "Interface.Interface3",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Interface2",
+      "request": "launch",
+      "mainClass": "Interface.Interface2",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Interface1",
+      "request": "launch",
+      "mainClass": "Interface.Interface1",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Abstraction",
+      "request": "launch",
+      "mainClass": "Abstraction.Abstraction",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Polymorphism1",
+      "request": "launch",
+      "mainClass": "Polymorphism.Polymorphism1",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Inheritance2",
+      "request": "launch",
+      "mainClass": "Inheritance.Inheritance2",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Inheritance1",
+      "request": "launch",
+      "mainClass": "Inheritance.Inheritance1",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Deserialization1",
+      "request": "launch",
+      "mainClass": "Deserialization1",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Serialization1",
+      "request": "launch",
+      "mainClass": "Serialization1",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "PrintWrite1",
+      "request": "launch",
+      "mainClass": "PrintWrite1",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "BufferedWriter1",
+      "request": "launch",
+      "mainClass": "BufferedWriter1",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "BufferedReader1",
+      "request": "launch",
+      "mainClass": "BufferedReader1",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "FileRead2",
+      "request": "launch",
+      "mainClass": "FileRead2",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "FileRead1",
+      "request": "launch",
+      "mainClass": "FileRead1",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "File3",
+      "request": "launch",
+      "mainClass": "File3",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "File2",
+      "request": "launch",
+      "mainClass": "File2",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "File1",
+      "request": "launch",
+      "mainClass": "File1",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "File1",
+      "request": "launch",
+      "mainClass": "FileHandling.File1",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Launch LounchApp1",
+      "request": "launch",
+      "mainClass": "LounchApp1",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Launch LounchApp",
+      "request": "launch",
+      "mainClass": "LounchApp",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Launch Pangram",
+      "request": "launch",
+      "mainClass": "Pangram",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Launch Anagram",
+      "request": "launch",
+      "mainClass": "Anagram",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Launch Palindrome",
+      "request": "launch",
+      "mainClass": "Palindrome",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch launchGame",
+      "request": "launch",
+      "mainClass": "GameProject.launchGame",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Launch demo",
+      "request": "launch",
+      "mainClass": "demo",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Launch hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Launch about",
+      "request": "launch",
+      "mainClass": "notepadapp.about",
+      "projectName": "java_c875a17"
+    },
+    {
+      "type": "java",
+      "name": "Launch notepadApp",
+      "request": "launch",
+      "mainClass": "notepadapp.notepadApp",
+      "projectName": "java_c875a17"
+    }
+  ]
+}
