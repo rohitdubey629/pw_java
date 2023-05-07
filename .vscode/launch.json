@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "Java_D_S_A.BinarySearch",
+      "projectName": "java_fcb6337c"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "Java_D_S_A.LinearSearch",
+      "projectName": "java_fcb6337c"
+    },
+    {
+      "type": "java",
       "name": "PrefixSumApproach",
       "request": "launch",
       "mainClass": "Java_D_S_A.PrefixSumApproach",
